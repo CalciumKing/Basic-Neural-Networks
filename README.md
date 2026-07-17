@@ -1,8 +1,11 @@
 # Basic-Neural-Networks 🧠
 
-Welcome to **Basic Neural Networks**, a collection of fundamental neural network implementations and deep learning concepts. This repo is designed for educational purposes to help you understand how neural networks learn and make predictions through practical code examples.
+Welcome to **Basic Neural Networks**, a collection of fundamental neural network implementations and deep learning
+concepts. This repo is designed for educational purposes to help you understand how neural networks learn and make
+predictions through practical code examples.
 
-> 🔬 **Note:** This repository focuses on **clear, understandable implementations** rather than production-ready code. Perfect for students and beginners in machine learning.
+> 🔬 **Note:** This repository focuses on **clear, understandable implementations** rather than production-ready code.
+> Perfect for students and beginners in machine learning.
 
 ## 🚀 What's Inside?
 
@@ -13,7 +16,7 @@ This repository includes simple implementations and examples of:
 	- Backpropagation algorithm
 - Educational implementations that demonstrate:
 	- How neural networks learn from data
-	- The mathematics behind gradient descent
+	- The mathematics behind gradient descent and backpropagation
 	- Network training processes step-by-step
 
 ## 🎯 Learning Goals
